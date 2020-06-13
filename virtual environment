@@ -1,0 +1,9 @@
+To create virtual environment , First we need to creae a project folder and then we will create virtual environment folder inside.
+In power shell:
+#To create a folder     mkdir project
+#go inside the directory    cd project
+#create virtual env         virtualenv venv
+The above command will create virtual environment venv inside the folder project
+
+
+#to activate the virtual environment        venv/Scripts/activate
